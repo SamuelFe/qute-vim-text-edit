@@ -2,7 +2,7 @@
 I did this to make editing in editors like Google Docs and Overleaf a little bit better.
 
 ## Installation
-You only need to copy the contents of `bindings` to your `config.py` and then you also may check if you have already set one of those bindings to another command.
+You only need to copy the contents of `bindings.py` to your `config.py` and then you also may check if you have already set one of those bindings to another command.
 
 ## Available mechanics
 `'\'  enter Normal mode`
