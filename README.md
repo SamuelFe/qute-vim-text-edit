@@ -23,7 +23,7 @@ General
 
 Google Docs specific
 
-`*  toggle bold until end of word`
+`'*'  toggle bold until end of word`
 
-`_  toggle italic until end of word`
+`'_'  toggle italic until end of word`
 
